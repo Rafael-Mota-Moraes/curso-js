@@ -1,0 +1,17 @@
+main {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}
+
+.div-teste {
+  background-color: pink;
+  width: 100px;
+  height: 100px;
+}
+
+#novo-id {
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+}
