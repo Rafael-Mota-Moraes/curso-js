@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+}
+
+main {
+  background-color: pink;
+}
+
+.abc {
+  background-color: brown;
+  height: 50px;
+  margin: 0 auto;
+  width: 50%;
+}
+
+.def {
+  background-color: blue;
+  height: 50px;
+  width: 50%;
+}
+
+.ghi {
+  background-color: black;
+  color: white;
+  width: 50%;
+  height: 50px;
+
+  position: absolute;
+}
